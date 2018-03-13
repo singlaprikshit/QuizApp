@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">bbt quiz app</string>
+    <string name="question1">"Q1. According to the Roommate Agreement, the apartments thermostat must be kept at what temperature?"</string>
+    <string name="answer1a">"68 degree"</string>
+    <string name="answer1b">"58 degree"</string>
+    <string name="answer1c">"80 degree"</string>
+    <string name="answer1d">"72 degree"</string>
+    <string name="question2">"Q2.What is, according to Sheldon, the best number?"</string>
+    <string name="answer2a">"73"</string>
+    <string name="answer2b">"12"</string>
+    <string name="answer2c">"37"</string>
+    <string name="answer2d">"21"</string>
+    <string name="question3">"Q3.What night is Pizza night?"</string>
+    <string name="answer3a">"Monday"</string>
+    <string name="answer3b">"Wednesday"</string>
+    <string name="answer3c">"Thursday"</string>
+    <string name="answer3d">"Sunday"</string>
+    <string name="question4">"Q4.What is the name of Raj dog?"</string>
+    <string name="answer4a">"Lucy"</string>
+    <string name="answer4b">"Cinnamon"</string>
+    <string name="answer4c">"Chong"</string>
+    <string name="answer4d">"Shopie"</string>
+    <string name="question5">"Q5. What is the name of Stuart's comic book shop?"</string>
+    <string name="question6">"Q6. What is the name of Howard and Bernadette daughter? </string>
+    <string name="question7">"Q7. Which are not the part of THE BIG BANG THEORY?"</string>
+    <string name="answer7a">Leonard</string>
+    <string name="answer7b">"Monica"</string>
+    <string name="answer7c">"Amy"</string>
+    <string name="answer7d">"Ross"</string>
+</resources>
